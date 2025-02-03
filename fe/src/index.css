@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #282b30;
+  --color-bg-1: #36393E;
+  --color-bg-2: #424549;
+}
+
+input {
+  outline: none;
+}
